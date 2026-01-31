@@ -2,7 +2,6 @@
 
 PROJECT OVERVIEW :
 THis project foucuse on analyzing pizza sales data to uncover meaningful insights using SQL and data visualization techniques. THe goal is to evaluate overall performance , understand customer preferences , identify trends and highlight the bews and worst performing pizzas so that sales can be optimised accordingly for maximum profit. 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 💠OBJECTIVES:
 -Analyse key performance indicators for pizza sales
@@ -10,7 +9,6 @@ THis project foucuse on analyzing pizza sales data to uncover meaningful insight
 - Understand custoer preferences by pizza catgory and size
 - Determin the top performing and underperforming pizzas
 - Present meaning insights using clear and meaningful insights
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 💠KPIs REQUIREMENTS:
 In this project the below mentioned KPIs are calculated to measure business performance:
@@ -19,7 +17,6 @@ In this project the below mentioned KPIs are calculated to measure business perf
 - TOTAL PIZZA SOLD: Total quantity of pizza sold
 - TOTAL ORDERS: Total number of ordrs placed.
 - AVERAGE PIZZA PER ORDER : Average number of pizza sold per order( Total pizzas sold/ total orders)
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 📊CHART REQUIREMENT AND VISUAL ANALYSIS:
 DAILY TREND FOR TOTAL ORDERS:
@@ -43,13 +40,11 @@ TOP FIVE BEST SELLERS
 
 BOTTOM FIVE WOEST SELLERS 
 Bar chart reprensenting the five worst performing pizzas based on revenue, total quantity sold and total orders received.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ⚒️ TOOLS AND TECHNOLOGIES USED :
 - SQL :  It is used for data quering and KPIs calculation to validate the same from the Power BI tool
 - POWER BI : It is used for data visualisation for better understandign to draw business insight to take the decision to bring mazimum benifits to the business
 - GitHub
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 📍KEY INSIGHTS( PROFIT AND BUSINESS ORIENTED INSIGHTS):
 - Revenue and profit contirubution analysis: Top five bestselles contirbutes high share of total revneue and orders showing that these items are the primary profit drivers for the business, These pizzas generate  high revneue due to multiple factors involvement like demand , repetative purchase, pricing etc.
