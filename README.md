@@ -1,4 +1,4 @@
-🍕 PIZZA SALES DATE ANALYSIS PROJECT
+🍕 PIZZA SALES DATA ANALYSIS PROJECT
 
 PROJECT OVERVIEW :
 THis project foucuse on analyzing pizza sales data to uncover meaningful insights using SQL and data visualization techniques. THe goal is to evaluate overall performance , understand customer preferences , identify trends and highlight the bews and worst performing pizzas so that sales can be optimised accordingly for maximum profit. 
